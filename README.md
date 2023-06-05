@@ -15,8 +15,18 @@ Application allows to adjust results to selected categories. You may also adjust
   <tr>
     <td><img src="/readme_images/start_screen.jpg" width=270 height=480></td>
     <td><img src="/readme_images/settings_screen.jpg" width=270 height=480></td>
+    <td><img src="/readme_images/results_screen.jpg" width=270 height=480></td>
+  </tr>
+  
+  <tr>
+    <td>History Screen</td>
+     <td>Compare Screen</td>
+  </tr>
+  <tr>
+    <td><img src="/readme_images/history_screen.jpg" width=270 height=480></td>
     <td><img src="/readme_images/compare_screen.jpg" width=270 height=480></td>
   </tr>
+    
  </table>
 
 ## 
