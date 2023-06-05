@@ -6,11 +6,18 @@ Application allows to adjust results to selected categories. You may also adjust
 
 ## Application Screens
 
-<img src="/readme_images/start_screen.jpg" width=30% height=30%>
-<img src="/readme_images/settings_screen.jpg" width=30% height=30%>
-<img src="/readme_images/results_screen.jpg" width=30% height=30%>
-<img src="/readme_images/history_screen.jpg" width=30% height=30%>
-<img src="/readme_images/compare_screen.jpg" width=30% height=30%>
+<table>
+  <tr>
+    <td>Main Screen</td>
+     <td>Settings Screen</td>
+     <td>Results Screen</td>
+  </tr>
+  <tr>
+    <td><img src="/readme_images/start_screen.jpg" width=270 height=480></td>
+    <td><img src="/readme_images/settings_screen.jpg" width=270 height=480></td>
+    <td><img src="/readme_images/compare_screen.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## 
 In order to launch application, you have to inject your own google maps key in files:
