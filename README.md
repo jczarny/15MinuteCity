@@ -19,10 +19,12 @@ Application allows to adjust results to selected categories. You may also adjust
   </tr>
   
   <tr>
+    <td>Results Screen 2</td>
     <td>History Screen</td>
      <td>Compare Screen</td>
   </tr>
   <tr>
+    <td><img src="/readme_images/results_screen2.jpg" width=270 height=560></td>
     <td><img src="/readme_images/history_screen.jpg" width=270 height=560></td>
     <td><img src="/readme_images/compare_screen.jpg" width=270 height=560></td>
   </tr>
