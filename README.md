@@ -5,15 +5,15 @@ The purpose of this application is to scan the environment around a specific loc
 Application allows to adjust results to selected categories. You may also adjust the radius of scan, as walking / riding speed is different for everyone.
 
 ## Application Screens
-### Start screen
+Start screen
 <img src="/readme_images/start_screen.jpg" width=40% height=40%>
-### Settings screen
+Settings screen
 <img src="/readme_images/settings_screen.jpg" width=40% height=40%>
-### Results screen
+Results screen
 <img src="/readme_images/results_screen.jpg" width=40% height=40%>
-### History screen
+History screen
 <img src="/readme_images/history_screen.jpg" width=40% height=40%>
-### Compare screen
+Compare screen
 <img src="/readme_images/compare_screen.jpg" width=40% height=40%>
 
 ## 
