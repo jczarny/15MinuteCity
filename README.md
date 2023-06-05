@@ -31,8 +31,11 @@ Application allows to adjust results to selected categories. You may also adjust
     
  </table>
 
-## How to use
+## How to use?
 In order to launch application, you have to inject your own google maps key in files:
+
 values\strings.xml
+
 values-night\strings.xml
+
 AndroidManifest.xml
