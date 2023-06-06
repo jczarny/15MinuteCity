@@ -1,6 +1,6 @@
 # 15-Minute City
 
-## Functionality
+## Features
 The purpose of this application is to scan the environment around a specific location in order to evaluate the compliance of selected location with the concept of a 15-minute city.
 Application allows to adjust results to selected categories. You may also adjust the radius of scan, as walking / riding speed is different for everyone.
 
